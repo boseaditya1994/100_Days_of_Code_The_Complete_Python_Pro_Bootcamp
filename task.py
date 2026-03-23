@@ -1,5 +1,5 @@
-sum = 0
-for number in range(1, 101):
-    sum+= number;
+def my_function():
+    print("hello")
+    print("Bye")
 
-print(sum);
+my_function();
